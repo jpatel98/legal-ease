@@ -1,0 +1,9 @@
+{
+  "name": "legal-ease",
+  "version": "1.0.0",
+  "description": "A telegram bot that gives free legal opinions",
+  "main": "index.ts",
+  "repository": "git@github.com:jpatel98/legal-ease.git",
+  "author": "Jigar Patel <jpxtel98@outlook.com>",
+  "license": "MIT"
+}
